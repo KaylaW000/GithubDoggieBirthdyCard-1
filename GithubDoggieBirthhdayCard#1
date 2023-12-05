@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Happy Birthday</title>
+<link rel= "stylesheet" href="styles.css"/>
+    </head>
+    <style> 
+           h1 {
+               color: #E6E6FA ;
+           }
+
+           h2 {
+               color: #728FCE ;
+           }
+           
+           h3 {color: #72BFCE
+           }
+
+           p {
+               color: rgb (159, 168, 218);
+           }
+       </style>
+      <body style= "background-color: lightblue;"> </body>
+
+
+
+    
+        <div id= "container">
+        <ul>
+        <li> <a href= "index.html">index</a>
+        </li>
+        <li><a href="news.html">about</a>
+        </li>
+        </ul>
+        </div>
+        
+        <button
+        type="button">Open</button>
+        <button type="button">Close</button> <br>
+        <br>
+        
+        <table>
+            <tr>
+                <td><td>
+            </tr>
+        </table>
+
+
+    
+                <img> src="https://publuu.com/flip-book/326227/751477"
+                <br>
+                <img> src="https://publuu.com/flip-book/326227/751501"
+                <br>
+    alt= "Birthday Card with Koala Bear">
+    <td><h2>It's Your Birthday!</h2></td>
+    <h3>I Hope You Enjoy Your Day</h3>
+        
+        
+</html>
+
+    
